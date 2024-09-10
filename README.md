@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @ImHony, nice to meet you @everyone!
-- 👀 I’m interested in web web development, softwere and hardwere for Arduino.
+- 👋 Hi, I’m @ImHony, nice to meet you!
 - 🌱 I’m currently learning Mechatronics and Robotics at University Polytechnic Bucharest.
 
 
